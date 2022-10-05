@@ -24,6 +24,9 @@ function App() {
                         <li>
                             <NavLink to="/users" activeClassName='active'>Users</NavLink>
                         </li>
+                        <li>
+                            <a href="/#">Learn React</a>
+                        </li>
                     </ul>
                 </nav>
 
