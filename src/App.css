@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.active {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 3px;
+}
+
+a {
+    text-decoration: none;
+}
